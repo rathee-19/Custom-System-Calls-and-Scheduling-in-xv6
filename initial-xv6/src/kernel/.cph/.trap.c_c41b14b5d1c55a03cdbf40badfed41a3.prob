@@ -1,0 +1,1 @@
+{"name":"Local: trap","url":"/Users/sarthak/Desktop/OS Assignments/2021101134_Ass4/xv6-riscv-riscv/kernel/trap.c","tests":[{"id":1665737961249,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/sarthak/Desktop/OS Assignments/2021101134_Ass4/xv6-riscv-riscv/kernel/trap.c","group":"local","local":true}
