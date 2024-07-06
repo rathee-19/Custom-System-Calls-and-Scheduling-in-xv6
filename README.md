@@ -6,18 +6,8 @@ This project extends the xv6 operating system by implementing custom system call
 
 1. Add system calls `getreadcount`, `sigalarm`, and `sigreturn`.
 2. Implement two new scheduling policies: First-Come-First-Serve (FCFS) and Multi-Level Feedback Queue (MLFQ).
-
-## Table of Contents
-
-1. [System Calls](https://www.notion.so/readme-35ffae54a1044368b3c7634c4d4b6e17?pvs=21)
-    - [getreadcount](https://www.notion.so/readme-35ffae54a1044368b3c7634c4d4b6e17?pvs=21)
-    - [sigalarm and sigreturn](https://www.notion.so/readme-35ffae54a1044368b3c7634c4d4b6e17?pvs=21)
-2. [Scheduling Policies](https://www.notion.so/readme-35ffae54a1044368b3c7634c4d4b6e17?pvs=21)
-    - [First-Come-First-Serve (FCFS)](https://www.notion.so/readme-35ffae54a1044368b3c7634c4d4b6e17?pvs=21)
-    - [Multi-Level Feedback Queue (MLFQ)](https://www.notion.so/readme-35ffae54a1044368b3c7634c4d4b6e17?pvs=21)
-3. [Implementation Details](https://www.notion.so/readme-35ffae54a1044368b3c7634c4d4b6e17?pvs=21)
-4. [Testing and Usage](https://www.notion.so/readme-35ffae54a1044368b3c7634c4d4b6e17?pvs=21)
-5. [Comparative Analysis](https://www.notion.so/readme-35ffae54a1044368b3c7634c4d4b6e17?pvs=21)
+## Resources
+- [Insturctions](https://karthikv1392.github.io/cs3301_osn/mini-projects/mp2)
 
 ## System Calls
 
