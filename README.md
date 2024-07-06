@@ -87,7 +87,7 @@ MLFQ assigns different priorities to processes and dynamically adjusts these pri
 5. **Update Timeslice:** Adjust in `update_time()` in `proc.c`.
 6. **Trap Update:** Change priority based on timeslice in `trap.c`.
 
-![Alt text](./mlfq_plot.png"mlfq_plot")
+![Alt text](https://github.com/rathee-19/Custom-System-Calls-and-Scheduling-in-xv6/blob/main/mlfq_plot.png)
 
 ## Testing and Usage
 
